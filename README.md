@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JanWohlgehagen
-- 👀 I’m interested in PC games and software dev
-- 🌱 I’m currently learning C#, DotNet, Anuglar, Java, JavaFX and CSS.
+- 👀 I’m interested in PC games and software development
+- 🌱 I’m currently learning C#, DotNet, Angular, Java, JavaFX and CSS.
 - 📫 Reach me @Jan.wohlgehagen@gmail.com
 
 <!---
